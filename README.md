@@ -17,4 +17,4 @@ Dataset Owner: George Scutelnicu
 - Cleaning data : Nate
 - Analyze the data: Melaney
 - SQL Tables: Tiani
-- Visualization in Tableau: Jonathan
+- Visualization in Tableau: Jonathan Coleman
