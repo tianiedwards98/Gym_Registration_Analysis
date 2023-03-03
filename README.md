@@ -8,6 +8,7 @@ We are working for Netflix on budgeting for our new Netflix special. Using the d
 Hypotheses:
 - Action movies tend to have a better budget to income ratio than other genres
  - Based on the income of movies from 2003-2022, movies filmed in foreign countries are more popular than movies filmed in the USA
+ - Does the overall budget have any influence of the overall rating 
 
 ## Results
 
