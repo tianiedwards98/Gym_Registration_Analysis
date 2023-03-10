@@ -18,3 +18,5 @@ Dataset Owner: George Scutelnicu
 - Analyze the data: Melaney
 - SQL Tables: Tiani
 - Visualization in Tableau: Jonathan Coleman
+## Communcation Protocol 
+we are using discord to communicate with each other to work on the project outside of class.
