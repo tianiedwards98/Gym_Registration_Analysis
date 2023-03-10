@@ -13,7 +13,7 @@ We are working for Netflix on budgeting for our new Netflix special. Using the d
 
 ## Resources
 Dataset: https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset?select=movies_metadata.csv
-Dataset Owner: ROUNAK BANIK
+###### Dataset Owner: ROUNAK BANIK
 
 ## Breakdown
 - Cleaning data : Nate
