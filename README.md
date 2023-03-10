@@ -12,8 +12,8 @@ We are working for Netflix on budgeting for our new Netflix special. Using the d
 
 
 ## Resources
-Dataset: https://www.kaggle.com/datasets/georgescutelnicu/top-100-popular-movies-from-2003-to-2022-imdb
-Dataset Owner: George Scutelnicu
+Dataset: https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset?select=movies_metadata.csv
+Dataset Owner: ROUNAK BANIK
 
 ## Breakdown
 - Cleaning data : Nate
