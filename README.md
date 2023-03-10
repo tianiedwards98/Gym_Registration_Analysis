@@ -1,8 +1,10 @@
 # Movie_Budget_Analysis
 
 ## Overview
-We are working for Netflix on budgeting for our new Netflix special. Using the data from the Top 100 movies from 2003-2022 we are answer these questions:
- - Which genres are rated the most successful in 20 years span based on budget vs income?
+We are working for Netflix on budgeting for our new Netflix special. Using the data from 45,000 movies so we can answer these questions:
+ - Which genres are rated the most successful based on budget vs income?
+ - Based on the revenue, are movies filmed in foreign countries more popular than movies filmed in the USA?
+ - Does the overall budget have any influence of the overall rating?
 
 ## Results
 
