@@ -15,10 +15,5 @@ We are working for Netflix on budgeting for our new Netflix special. Using the d
 Dataset: https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset?select=movies_metadata.csv
 ###### Dataset Owner: ROUNAK BANIK
 
-## Breakdown
-- Cleaning data : Nate
-- Analyze the data: Melaney
-- SQL Tables: Tiani
-- Visualization in Tableau: Jonathan Coleman
-## Communcation Protocol 
-we are using discord to communicate with each other to work on the project outside of class.
+## Communication Protocol 
+We are using Discord and Zoom to communicate with each other to work on the project outside of class.
