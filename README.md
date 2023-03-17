@@ -8,6 +8,12 @@ We are working for Netflix on budgeting for our new Netflix special. Using the d
 
 ## Results
 
+### Budget Vs Income
+
+### Popularity: Foreign vs US
+
+### Overall Budget vs Overall Rating 
+
 ## Summary
 
 
