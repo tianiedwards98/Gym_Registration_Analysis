@@ -1,13 +1,10 @@
 # Movie_Budget_Analysis
 
 ## Overview
-We are working for Netflix on budgeting for our new Netflix special. Using the data from the Top 100 movies from 2003-2022 we are answer these questions:
- - Which genres are the most successful in 20 years span based on budget vs income?
- - How do different rated movies film in different countries perform according to income?
- 
-Hypotheses:
-- Action movies tend to have a better budget to income ratio than other genres
- - Based on the income of movies from 2003-2022, movies filmed in foreign countries are more popular than movies filmed in the USA
+We are working for Netflix on budgeting for our new Netflix special. Using the data from 45,000 movies so we can answer these questions:
+ - Which genres are rated the most successful based on budget vs income?
+ - Based on the revenue, are movies filmed in foreign countries more popular than movies filmed in the USA?
+ - Does the overall budget have any influence of the overall rating?
 
 ## Results
 
@@ -15,11 +12,8 @@ Hypotheses:
 
 
 ## Resources
-Dataset: https://www.kaggle.com/datasets/georgescutelnicu/top-100-popular-movies-from-2003-to-2022-imdb
-Dataset Owner: George Scutelnicu
+Dataset: https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset?select=movies_metadata.csv
+###### Dataset Owner: ROUNAK BANIK
 
-## Breakdown
-- Cleaning data : Nate
-- Analyze the data: Melaney
-- SQL Tables: Tiani
-- Visualization in Tableau: Jonathan
+## Communication Protocol 
+We are using Discord and Zoom to communicate with each other to work on the project outside of class.
