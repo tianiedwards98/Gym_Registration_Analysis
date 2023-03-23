@@ -15,7 +15,7 @@ We are working for Netflix on budgeting for our new Netflix special. Using the d
 ![Screenshot](https://github.com/tianiedwards98/Movies_Analysis/blob/main/Images/Screen%20Shot%202023-03-21%20at%206.36.02%20PM.png?raw=true)
 
 ### Overall Budget vs Overall Rating 
-![Screenshot](https://github.com/tianiedwards98/Movies_Analysis/blob/main/Images/Screen%20Shot%202023-03-21%20at%206.36.23%20PM.png?raw=true)
+![Screenshot](https://github.com/tianiedwards98/Movies_Analysis/blob/main/Images/Screen%20Shot%202023-03-22%20at%208.43.57%20PM.png?raw=true)
 
 
 ## Summary
