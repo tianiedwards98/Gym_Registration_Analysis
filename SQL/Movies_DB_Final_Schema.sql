@@ -54,7 +54,7 @@ Select * from popular_filmed_countries;
 
 Create table "budget_influenced_rating" (
 	"id" int not null,
-	"popularity" float not null,
+	"vote_average" float not null,
 	"budget" float not null,
 	CONSTRAINT "pk_budget_influenced_rating" PRIMARY KEY (
 	"id"
