@@ -17,6 +17,10 @@ We are working for Netflix on budgeting for our new Netflix special. Using the d
 ### Overall Budget vs Overall Rating 
 ![Screenshot](https://github.com/tianiedwards98/Movies_Analysis/blob/main/Images/Screen%20Shot%202023-03-22%20at%208.43.57%20PM.png?raw=true)
 
+###### Using machine learning we are able to see the prediction on how well a movie will do based on its budget
+![prediction accuracy](https://user-images.githubusercontent.com/114840416/227384280-1c010a56-d32d-4541-aeae-a65ca9b9bc46.PNG)
+###### as shown above our machine learning model was able to have an 82% accuracy return.
+
 
 ## Summary
 
