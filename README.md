@@ -1,10 +1,11 @@
 # Movie_Budget_Analysis
 
 ## Overview
-We are working for Netflix on budgeting for our new Netflix special. Using the data from 45,000 movies so we can answer these questions:
+We are working for Netflix on a new Netflix special. We were tasked with finding the range of budget we would need, which production compnay that the should work with based on how profittable and popular it is, and which genre of movies are the most popular. Using the data from 45,000 movies so we can answer these questions:
+
  - Which genres are rated the most successful based on budget vs income?
  - Based on the revenue, are movies filmed in foreign countries more popular than movies filmed in the USA?
- - Does the overall budget have any influence of the overall rating?
+
 
 ## Results
 
