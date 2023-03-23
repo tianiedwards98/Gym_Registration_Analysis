@@ -8,7 +8,7 @@ We are working for Netflix on budgeting for our new Netflix special. Using the d
 
 ## Results
 
-### Budget Vs Income
+### Successful Genres (Based off profit)
 ![Screenshot](https://github.com/tianiedwards98/Movies_Analysis/blob/main/Images/Screen%20Shot%202023-03-21%20at%206.35.21%20PM.png?raw=true)
 
 ### Popularity: Foreign vs US
@@ -23,7 +23,7 @@ We are working for Netflix on budgeting for our new Netflix special. Using the d
 
 
 ## Summary
-
+Based on our findings movies that have a higher budget are more popular and have a higher profit from the general public. In the future to amke our results better we would consider finding more that one dataset based on our topic which we decided against because our current dataset was 45,000 records. Also, we would try to find a dataset that included whether or not the movie won any type of movie award to compare the popularity between the general public and the movie critics.
 
 ## Resources
 Dataset: https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset?select=movies_metadata.csv
