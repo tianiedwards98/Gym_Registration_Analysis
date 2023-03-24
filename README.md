@@ -12,11 +12,21 @@ We are working for Netflix on a new Netflix special. We were tasked with finding
 ### Successful Genres (Based off profit)
 ![Screenshot](https://github.com/tianiedwards98/Movies_Analysis/blob/main/Images/Screen%20Shot%202023-03-21%20at%206.35.21%20PM.png?raw=true)
 
+<img width="989" alt="Screenshot 2023-03-23 at 8 27 24 PM" src="https://user-images.githubusercontent.com/113556769/227393406-e76e23c9-ff82-4974-bc9a-5c3b3d9ddae0.png">
+
+
 ### Popularity: Foreign vs US
 ![Screenshot](https://github.com/tianiedwards98/Movies_Analysis/blob/main/Images/Screen%20Shot%202023-03-21%20at%206.36.02%20PM.png?raw=true)
 
+<img width="1138" alt="Screenshot 2023-03-23 at 8 28 34 PM" src="https://user-images.githubusercontent.com/113556769/227393451-06189a60-2e5b-42aa-8f8c-91f684682687.png">
+
+<img width="923" alt="Screenshot 2023-03-23 at 8 29 12 PM" src="https://user-images.githubusercontent.com/113556769/227393489-02b6f0a6-51fd-4031-ab12-a56e42e0c80a.png">
+
+
 ### Overall Budget vs Overall Rating 
 ![Screenshot](https://github.com/tianiedwards98/Movies_Analysis/blob/main/Images/Screen%20Shot%202023-03-22%20at%208.43.57%20PM.png?raw=true)
+
+<img width="1010" alt="Screenshot 2023-03-23 at 8 33 53 PM" src="https://user-images.githubusercontent.com/113556769/227394037-a9caf2cc-d333-4b0f-9e6a-86e92b2419dd.png">
 
 ###### Using machine learning we are able to see the prediction on how well a movie will do based on its budget
 ![prediction accuracy](https://user-images.githubusercontent.com/114840416/227384280-1c010a56-d32d-4541-aeae-a65ca9b9bc46.PNG)
