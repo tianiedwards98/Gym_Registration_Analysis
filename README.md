@@ -43,7 +43,7 @@ Dataset: https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset?select=m
 - ETL - Excel/Python
 - Database - Postgres
 - Visualization - Tableau
-- Machine Learning - 
+- Machine Learning - Python/Jupyter Notebook
 
 ## Communication Protocol 
 We are using Discord and Zoom to communicate with each other to work on the project outside of class.
