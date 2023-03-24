@@ -29,6 +29,11 @@ Based on our findings movies that have a higher budget are more popular and have
 ## Resources
 Dataset: https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset?select=movies_metadata.csv
 ###### Dataset Owner: ROUNAK BANIK
+### Technologes
+- ETL - Excel/Python
+- Database - Postgres
+- Visualization - Tableau
+- Machine Learning - 
 
 ## Communication Protocol 
 We are using Discord and Zoom to communicate with each other to work on the project outside of class.
