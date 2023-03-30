@@ -47,3 +47,5 @@ Dataset: https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset?select=m
 
 ## Communication Protocol 
 We are using Discord and Zoom to communicate with each other to work on the project outside of class.
+## Prsentation Slides
+https://docs.google.com/presentation/d/1pHK95SRzPhrloTgKUiVDAI3cP3IkvesgW5tNuvgFNds/edit#slide=id.g20995f5b260_0_1648
